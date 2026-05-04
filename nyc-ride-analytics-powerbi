@@ -1,1 +1,17 @@
-
+nyc-ride-analytics-powerbi/
+│
+├── README.md
+│
+├── dashboard/
+│   └── Ride_Analytics_Dashboard.pbix
+│
+├── screenshots/
+│   ├── 01_landing_page.png
+│   ├── 02_operational_overview.png
+│   └── 03_ride_behavior_analysis.png
+│
+├── data/
+│   └── data_source.txt
+│
+└── docs/
+    └── data_cleaning_notes.md
