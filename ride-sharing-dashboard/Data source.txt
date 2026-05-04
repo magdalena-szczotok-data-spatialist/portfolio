@@ -1,0 +1,11 @@
+Data source:
+NYC Taxi & Limousine Commission Trip Record Data
+
+Dataset used:
+Yellow Taxi Trip Records – February and March 2023
+
+Source:
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+Note:
+Raw data files are not included in this repository due to file size. The dashboard was built using publicly available Parquet files from the source above.
